@@ -1,4 +1,6 @@
 # Typing-Master-using-Python-with their-various libraries
+What are the steps to make this program..??
+
 1.First of all, we should known about python programming language as well as their libreries like numpy, pandas, matplotlib, tkinter, timeit,etc.
 2.Mainly for this project we need/used such libraries are tkinter and as well as timeit also.
 -Tkinter is used for faster GUI as well to calculate the time for speed testing, Timeit is calculation/defined that how much time is consumed in execution,
@@ -25,6 +27,6 @@ Output is:
 
 Finally we done our program.
 
-Just follow me and star
+Just follow me and star my repository.
 
 
